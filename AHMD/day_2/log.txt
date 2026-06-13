@@ -1,0 +1,4 @@
+2026-06-11 11:44:45.183023 | function: add_expence | args: ('cloth', 9000.0) )
+2026-06-11 11:48:22.215008 | Function: add_expence | Args: ('clothing', 9000.0)
+2026-06-11 11:48:31.981949 | Function: add_expence | Args: ('footwear', 9888.0)
+2026-06-11 11:48:35.851977 | Function: view_expence | Args: ()

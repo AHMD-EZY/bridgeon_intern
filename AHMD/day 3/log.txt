@@ -1,0 +1,3 @@
+2026-06-12 11:46:26.633686 | Function: add_expence | Args: ('food', 900.0)
+2026-06-12 11:49:46.166928 | Function: add_expence | Args: ('food', 900.0)
+2026-06-12 11:50:07.975813 | Function: add_expence | Args: ('clothing', 99333.0)

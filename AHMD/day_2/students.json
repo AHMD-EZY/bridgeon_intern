@@ -1,0 +1,27 @@
+[
+  {
+    "id": 100,
+    "name": "AHMD",
+    "mark": 90
+  },
+  {
+    "id": 101,
+    "name": "ABERR",
+    "mark": 88
+  },
+  {
+    "id": 102,
+    "name": "FADHII",
+    "mark": 75
+  },
+  {
+    "id": 103,
+    "name": "DEEVV",
+    "mark": 65
+  },
+  {
+    "id": 104,
+    "name": "SHYAAM",
+    "mark": 55
+  }
+]

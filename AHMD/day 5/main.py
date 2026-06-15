@@ -1,0 +1,14 @@
+from fastapi import FastAPI
+from routers.tasks import router
+
+app = FastAPI()
+
+app.include_router(
+    router,
+    prefix="/tasks",
+    tags=["Tasks"]
+)
+
+@app.get("/")
+def home():
+    return {"message": "FastAPI CRUD Project"}

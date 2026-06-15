@@ -1,0 +1,5 @@
+2026-06-13 14:30:11.544236 | Function: add_expence | Args: ('food', 9000.0)
+2026-06-13 14:37:35.173426 | Function: add_expense | Args: ('cloth', 9000.0)
+2026-06-13 14:38:07.836788 | Function: add_expense | Args: ('travel', 250000.0)
+2026-06-13 14:38:12.386076 | Function: view_expenses | Args: ()
+2026-06-13 14:38:18.827142 | Function: get_summary | Args: ()
